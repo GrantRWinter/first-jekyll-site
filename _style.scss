@@ -1,30 +1,39 @@
-#little-house {
+#little-house{
   background-image: url("../photos/tiny-house-on-trailer.jpeg");
   height: 600px;
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: 20px;
   text-align: center;
-  margin-bottom: 10px; }
-  #little-house h1 {
+  margin-bottom: 10px;
+  
+  h1{
     color: #EBFFEB;
     font-family: Helvetica;
     margin-top: 2em;
-    font-size: 7em; }
+    font-size: 7em;
+  }
 
-.banner {
+}
+
+.banner{
   width: 100%;
   border-radius: 5%;
   border: 3px solid black;
-  margin: 1em; }
+  margin: 1em;
+}
 
-.row {
+.row{
   background-color: gray;
   margin-left: 1em;
-  margin-left: 1em; }
+  margin-left: 1em;
+}
 
-footer {
-  clear: both; }
+footer{clear: both}
 
-navbar .navbar-default {
-  background-color: #464141; }
+navbar .navbar-default{
+  background-color: #464141;
+}
+
+
+
