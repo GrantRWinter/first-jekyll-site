@@ -1,30 +1,59 @@
 #little-house {
-  background-image: url("../photos/tiny-house-on-trailer.jpeg");
+  background-image: url("../photos/little-house-on-rock-in-the-middle-of-a-river-in-serbia.jpg");
   height: 600px;
   background-size: cover;
   background-repeat: no-repeat;
-  margin-top: 20px;
   text-align: center;
-  margin-bottom: 10px; }
+  margin-top: -21px; }
   #little-house h1 {
     color: #EBFFEB;
     font-family: Helvetica;
-    margin-top: 2em;
-    font-size: 7em; }
+    font-size: 8em; }
 
 .banner {
   width: 100%;
+  height: 100%;
   border-radius: 5%;
-  border: 3px solid black;
-  margin: 1em; }
+  border: 3px solid black; }
 
 .row {
   background-color: gray;
-  margin-left: 1em;
-  margin-left: 1em; }
+  margin-right: 0px;
+  margin-left: 0px; }
 
 footer {
   clear: both; }
 
-navbar .navbar-default {
-  background-color: #464141; }
+.navbar-default {
+  background-color: #464141;
+  border: 3px solid gray; }
+
+.house {
+  padding: 1em; }
+
+.small_icon {
+  font-size: 0.5em; }
+
+.big_icon {
+  font-size: 1.5em; }
+
+.navbar {
+  border-radius: 0px; }
+  .navbar .navbar-default {
+    background-color: #464141;
+    border: 3px solid gray; }
+  .navbar .nav.navbar-nav {
+    font-size: 1.5em; }
+
+.dropdown-toggle {
+  font-size: 16px; }
+
+.name {
+  font-size: 1.5em; }
+
+.navbar-default {
+  background-color: #EBFFEB; }
+
+.jumbotron {
+  margin-bottom: 0px;
+  background-color: #ebffeb; }
